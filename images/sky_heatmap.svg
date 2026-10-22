@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 620 200" width="620" height="200" xmlns="http://www.w3.org/2000/svg" font-family="Inter, sans-serif"><rect width="620" height="200" fill="#ffffff"/>
+<text x="6" y="14" font-size="9.2" font-weight="700" fill="#605E5C">NUAGES (%) PAR ZONE ET PAR HEURE · NUIT DU 27 NOVEMBRE 2026 · EN VERT : FENÊTRE GO</text>
+<text x="84" y="38" text-anchor="end" font-size="8" font-weight="700" fill="#B4009E">Kp</text>
+<text x="115.8" y="38" text-anchor="middle" font-size="8" font-weight="700" fill="#B4009E">1.9</text>
+<text x="115.8" y="162" text-anchor="middle" font-size="7.6" fill="#605E5C">18 h</text>
+<text x="167.2" y="38" text-anchor="middle" font-size="8" font-weight="700" fill="#B4009E">2.2</text>
+<text x="167.2" y="162" text-anchor="middle" font-size="7.6" fill="#605E5C">19 h</text>
+<text x="218.8" y="38" text-anchor="middle" font-size="8" font-weight="700" fill="#B4009E">2.1</text>
+<text x="218.8" y="162" text-anchor="middle" font-size="7.6" fill="#605E5C">20 h</text>
+<text x="270.2" y="38" text-anchor="middle" font-size="8" font-weight="700" fill="#B4009E">3.1</text>
+<text x="270.2" y="162" text-anchor="middle" font-size="7.6" fill="#605E5C">21 h</text>
+<text x="321.8" y="38" text-anchor="middle" font-size="8" font-weight="700" fill="#B4009E">4.1</text>
+<text x="321.8" y="162" text-anchor="middle" font-size="7.6" fill="#605E5C">22 h</text>
+<text x="373.2" y="38" text-anchor="middle" font-size="8" font-weight="700" fill="#B4009E">4.6</text>
+<text x="373.2" y="162" text-anchor="middle" font-size="7.6" fill="#605E5C">23 h</text>
+<text x="424.8" y="38" text-anchor="middle" font-size="8" font-weight="700" fill="#B4009E">4.0</text>
+<text x="424.8" y="162" text-anchor="middle" font-size="7.6" fill="#605E5C">00 h</text>
+<text x="476.2" y="38" text-anchor="middle" font-size="8" font-weight="700" fill="#B4009E">3.0</text>
+<text x="476.2" y="162" text-anchor="middle" font-size="7.6" fill="#605E5C">01 h</text>
+<text x="527.8" y="38" text-anchor="middle" font-size="8" font-weight="700" fill="#B4009E">2.2</text>
+<text x="527.8" y="162" text-anchor="middle" font-size="7.6" fill="#605E5C">02 h</text>
+<text x="579.2" y="38" text-anchor="middle" font-size="8" font-weight="700" fill="#B4009E">2.2</text>
+<text x="579.2" y="162" text-anchor="middle" font-size="7.6" fill="#605E5C">03 h</text>
+<text x="84" y="62" text-anchor="end" font-size="8.6" font-weight="700" fill="#0B2A4A">Reykjavik</text>
+<rect x="92.0" y="46" width="47.5" height="22" rx="3" fill="rgb(181,181,193)"/><text x="115.8" y="61" text-anchor="middle" font-size="8" font-weight="700" fill="#0B2A4A">41</text>
+<rect x="143.5" y="46" width="47.5" height="22" rx="3" fill="rgb(176,176,188)"/><text x="167.2" y="61" text-anchor="middle" font-size="8" font-weight="700" fill="#0B2A4A">45</text>
+<rect x="195.0" y="46" width="47.5" height="22" rx="3" fill="rgb(168,168,180)"/><text x="218.8" y="61" text-anchor="middle" font-size="8" font-weight="700" fill="#0B2A4A">51</text>
+<rect x="246.5" y="46" width="47.5" height="22" rx="3" fill="rgb(160,160,172)"/><text x="270.2" y="61" text-anchor="middle" font-size="8" font-weight="700" fill="#0B2A4A">57</text>
+<rect x="298.0" y="46" width="47.5" height="22" rx="3" fill="rgb(157,157,169)"/><text x="321.8" y="61" text-anchor="middle" font-size="8" font-weight="700" fill="#0B2A4A">60</text>
+<rect x="349.5" y="46" width="47.5" height="22" rx="3" fill="rgb(172,172,184)"/><text x="373.2" y="61" text-anchor="middle" font-size="8" font-weight="700" fill="#0B2A4A">48</text>
+<rect x="401.0" y="46" width="47.5" height="22" rx="3" fill="rgb(176,176,188)"/><text x="424.8" y="61" text-anchor="middle" font-size="8" font-weight="700" fill="#0B2A4A">45</text>
+<rect x="452.5" y="46" width="47.5" height="22" rx="3" fill="#3BA55C"/><text x="476.2" y="61" text-anchor="middle" font-size="8" font-weight="700" fill="#fff">37</text>
+<rect x="504.0" y="46" width="47.5" height="22" rx="3" fill="rgb(201,201,213)"/><text x="527.8" y="61" text-anchor="middle" font-size="8" font-weight="700" fill="#0B2A4A">26</text>
+<rect x="555.5" y="46" width="47.5" height="22" rx="3" fill="rgb(202,202,214)"/><text x="579.2" y="61" text-anchor="middle" font-size="8" font-weight="700" fill="#0B2A4A">25</text>
+<text x="84" y="88" text-anchor="end" font-size="8.6" font-weight="700" fill="#0B2A4A">Thingvellir</text>
+<rect x="92.0" y="72" width="47.5" height="22" rx="3" fill="rgb(210,210,222)"/><text x="115.8" y="87" text-anchor="middle" font-size="8" font-weight="700" fill="#0B2A4A">19</text>
+<rect x="143.5" y="72" width="47.5" height="22" rx="3" fill="rgb(209,209,221)"/><text x="167.2" y="87" text-anchor="middle" font-size="8" font-weight="700" fill="#0B2A4A">20</text>
+<rect x="195.0" y="72" width="47.5" height="22" rx="3" fill="rgb(206,206,218)"/><text x="218.8" y="87" text-anchor="middle" font-size="8" font-weight="700" fill="#0B2A4A">22</text>
+<rect x="246.5" y="72" width="47.5" height="22" rx="3" fill="#3BA55C"/><text x="270.2" y="87" text-anchor="middle" font-size="8" font-weight="700" fill="#fff">30</text>
+<rect x="298.0" y="72" width="47.5" height="22" rx="3" fill="#3BA55C"/><text x="321.8" y="87" text-anchor="middle" font-size="8" font-weight="700" fill="#fff">34</text>
+<rect x="349.5" y="72" width="47.5" height="22" rx="3" fill="#3BA55C"/><text x="373.2" y="87" text-anchor="middle" font-size="8" font-weight="700" fill="#fff">23</text>
+<rect x="401.0" y="72" width="47.5" height="22" rx="3" fill="#3BA55C"/><text x="424.8" y="87" text-anchor="middle" font-size="8" font-weight="700" fill="#fff">26</text>
+<rect x="452.5" y="72" width="47.5" height="22" rx="3" fill="#3BA55C"/><text x="476.2" y="87" text-anchor="middle" font-size="8" font-weight="700" fill="#fff">16</text>
+<rect x="504.0" y="72" width="47.5" height="22" rx="3" fill="rgb(235,235,247)"/><text x="527.8" y="87" text-anchor="middle" font-size="8" font-weight="700" fill="#0B2A4A">0</text>
+<rect x="555.5" y="72" width="47.5" height="22" rx="3" fill="rgb(233,233,245)"/><text x="579.2" y="87" text-anchor="middle" font-size="8" font-weight="700" fill="#0B2A4A">1</text>
+<text x="84" y="114" text-anchor="end" font-size="8.6" font-weight="700" fill="#0B2A4A">Snaefellsnes</text>
+<rect x="92.0" y="98" width="47.5" height="22" rx="3" fill="rgb(128,128,140)"/><text x="115.8" y="113" text-anchor="middle" font-size="8" font-weight="700" fill="#fff">82</text>
+<rect x="143.5" y="98" width="47.5" height="22" rx="3" fill="rgb(119,119,131)"/><text x="167.2" y="113" text-anchor="middle" font-size="8" font-weight="700" fill="#fff">89</text>
+<rect x="195.0" y="98" width="47.5" height="22" rx="3" fill="rgb(105,105,117)"/><text x="218.8" y="113" text-anchor="middle" font-size="8" font-weight="700" fill="#fff">100</text>
+<rect x="246.5" y="98" width="47.5" height="22" rx="3" fill="rgb(110,110,122)"/><text x="270.2" y="113" text-anchor="middle" font-size="8" font-weight="700" fill="#fff">96</text>
+<rect x="298.0" y="98" width="47.5" height="22" rx="3" fill="rgb(106,106,118)"/><text x="321.8" y="113" text-anchor="middle" font-size="8" font-weight="700" fill="#fff">99</text>
+<rect x="349.5" y="98" width="47.5" height="22" rx="3" fill="rgb(106,106,118)"/><text x="373.2" y="113" text-anchor="middle" font-size="8" font-weight="700" fill="#fff">99</text>
+<rect x="401.0" y="98" width="47.5" height="22" rx="3" fill="rgb(124,124,136)"/><text x="424.8" y="113" text-anchor="middle" font-size="8" font-weight="700" fill="#fff">85</text>
+<rect x="452.5" y="98" width="47.5" height="22" rx="3" fill="rgb(133,133,145)"/><text x="476.2" y="113" text-anchor="middle" font-size="8" font-weight="700" fill="#fff">78</text>
+<rect x="504.0" y="98" width="47.5" height="22" rx="3" fill="rgb(140,140,152)"/><text x="527.8" y="113" text-anchor="middle" font-size="8" font-weight="700" fill="#fff">73</text>
+<rect x="555.5" y="98" width="47.5" height="22" rx="3" fill="rgb(154,154,166)"/><text x="579.2" y="113" text-anchor="middle" font-size="8" font-weight="700" fill="#fff">62</text>
+<text x="84" y="140" text-anchor="end" font-size="8.6" font-weight="700" fill="#0B2A4A">Vik</text>
+<rect x="92.0" y="124" width="47.5" height="22" rx="3" fill="rgb(218,218,230)"/><text x="115.8" y="139" text-anchor="middle" font-size="8" font-weight="700" fill="#0B2A4A">13</text>
+<rect x="143.5" y="124" width="47.5" height="22" rx="3" fill="rgb(207,207,219)"/><text x="167.2" y="139" text-anchor="middle" font-size="8" font-weight="700" fill="#0B2A4A">21</text>
+<rect x="195.0" y="124" width="47.5" height="22" rx="3" fill="rgb(201,201,213)"/><text x="218.8" y="139" text-anchor="middle" font-size="8" font-weight="700" fill="#0B2A4A">26</text>
+<rect x="246.5" y="124" width="47.5" height="22" rx="3" fill="#3BA55C"/><text x="270.2" y="139" text-anchor="middle" font-size="8" font-weight="700" fill="#fff">32</text>
+<rect x="298.0" y="124" width="47.5" height="22" rx="3" fill="rgb(175,175,187)"/><text x="321.8" y="139" text-anchor="middle" font-size="8" font-weight="700" fill="#0B2A4A">46</text>
+<rect x="349.5" y="124" width="47.5" height="22" rx="3" fill="rgb(179,179,191)"/><text x="373.2" y="139" text-anchor="middle" font-size="8" font-weight="700" fill="#0B2A4A">43</text>
+<rect x="401.0" y="124" width="47.5" height="22" rx="3" fill="rgb(167,167,179)"/><text x="424.8" y="139" text-anchor="middle" font-size="8" font-weight="700" fill="#0B2A4A">52</text>
+<rect x="452.5" y="124" width="47.5" height="22" rx="3" fill="rgb(177,177,189)"/><text x="476.2" y="139" text-anchor="middle" font-size="8" font-weight="700" fill="#0B2A4A">44</text>
+<rect x="504.0" y="124" width="47.5" height="22" rx="3" fill="rgb(175,175,187)"/><text x="527.8" y="139" text-anchor="middle" font-size="8" font-weight="700" fill="#0B2A4A">46</text>
+<rect x="555.5" y="124" width="47.5" height="22" rx="3" fill="rgb(196,196,208)"/><text x="579.2" y="139" text-anchor="middle" font-size="8" font-weight="700" fill="#0B2A4A">30</text>
+<text x="6" y="196" font-size="7.8" fill="#605E5C">Règle GO : Kp 3 ou plus et 40 % de nuages au plus. Snaefellsnes reste couvert toute la nuit ; Thingvellir tient de 21 h à 01 h.</text>
+</svg>
