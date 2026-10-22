@@ -1,0 +1,91 @@
+PIPELINE 17 : LE PIPELINE QUE PERSONNE NE LANCE, LES AURORES D'ISLANDE
+Chaque valeur est sur sa propre ligne : copiez la ligne entière, sans le titre entre crochets.
+
+==================== ① ② Objets ====================
+
+[Espace de travail]
+Fabric_Pipeline_17
+
+[Lakehouse (case Schémas décochée)]
+LH_Aurora
+
+[Dossier 1 dans Fichiers]
+sky
+
+[Dossier 2 dans Fichiers]
+bookings
+
+[Entrepôt]
+WH_Aurora
+
+==================== ③ PL_Sky ====================
+
+[Pipeline]
+PL_Sky
+
+[Copy data]
+Load sky
+
+[Table de destination (Remplacer)]
+sky
+
+==================== ④ PL_Bookings ====================
+
+[Pipeline]
+PL_Bookings
+
+[Copy data]
+Load bookings
+
+[Table de destination (Remplacer)]
+bookings
+
+==================== ⑤ La dimension, dans PL_Sky ET dans PL_Bookings ====================
+
+[Nom de la dimension]
+Night
+
+[Valeur]
+2026-11-27
+
+==================== ⑥ PL_Aurora : les activités ====================
+
+[Pipeline]
+PL_Aurora
+
+[Refresh SQL endpoint]
+Refresh endpoint
+
+[Script]
+Decide aurora
+
+[Requête]
+Le contenu de sql/01_decide_aurora.sql
+
+[Teams]
+Post aurora
+
+[Titre]
+Aurores
+
+[Teams message (à coller directement dans le champ Message)]
+@{activity('Decide aurora').output.resultSets[0].rows[0].msg}
+
+==================== ⑦ La condition d'exécution de PL_Aurora ====================
+
+[Nom de la condition]
+Sky and bookings ready
+
+[Type]
+Personnalisé (Custom)
+
+[Dimension d'exécution]
+Night
+
+[Pipelines en amont]
+PL_Sky et PL_Bookings
+
+==================== Contrôle ====================
+
+[Message attendu dans Teams]
+Aurores boréales, nuit du 27 novembre 2026 : GO pour 3 zones sur 4. Meilleure fenêtre : Thingvellir à 23:00, Kp 4.6, 23 % de nuages. 17 tours confirmés, 334 voyageurs. Annulé : Snaefellsnes (82 voyageurs, ciel couvert).
