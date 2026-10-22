@@ -1,0 +1,23 @@
+night,tour_id,operator,zone,departure,capacity,booked
+2026-11-27,T901,Polar Path,Reykjavik,2026-11-27 21:00,33,19
+2026-11-27,T902,Polar Path,Reykjavik,2026-11-27 20:30,19,18
+2026-11-27,T903,Hekla Hunters,Reykjavik,2026-11-27 21:00,50,29
+2026-11-27,T904,Fjord & Fire,Reykjavik,2026-11-27 20:30,19,12
+2026-11-27,T905,Polar Path,Reykjavik,2026-11-27 21:00,19,14
+2026-11-27,T906,Polar Path,Reykjavik,2026-11-27 21:30,19,12
+2026-11-27,T907,Hekla Hunters,Reykjavik,2026-11-27 20:30,19,14
+2026-11-27,T908,Arctic Lights,Thingvellir,2026-11-27 21:00,19,10
+2026-11-27,T909,Fjord & Fire,Thingvellir,2026-11-27 21:00,33,20
+2026-11-27,T910,Polar Path,Thingvellir,2026-11-27 21:00,50,48
+2026-11-27,T911,Fjord & Fire,Thingvellir,2026-11-27 21:00,33,21
+2026-11-27,T912,Hekla Hunters,Thingvellir,2026-11-27 20:30,19,11
+2026-11-27,T913,Nordurljos Tours,Thingvellir,2026-11-27 21:00,19,17
+2026-11-27,T914,Fjord & Fire,Snaefellsnes,2026-11-27 22:00,19,11
+2026-11-27,T915,Nordurljos Tours,Snaefellsnes,2026-11-27 21:00,19,13
+2026-11-27,T916,Fjord & Fire,Snaefellsnes,2026-11-27 21:00,33,19
+2026-11-27,T917,Nordurljos Tours,Snaefellsnes,2026-11-27 20:30,19,12
+2026-11-27,T918,Nordurljos Tours,Snaefellsnes,2026-11-27 21:30,33,27
+2026-11-27,T919,Nordurljos Tours,Vik,2026-11-27 21:00,19,10
+2026-11-27,T920,Nordurljos Tours,Vik,2026-11-27 21:00,19,12
+2026-11-27,T921,Fjord & Fire,Vik,2026-11-27 22:00,33,29
+2026-11-27,T922,Arctic Lights,Vik,2026-11-27 22:00,50,38
